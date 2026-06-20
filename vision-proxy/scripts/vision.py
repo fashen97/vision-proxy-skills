@@ -20,7 +20,7 @@ import urllib.request
 
 DEFAULTS = {
     "base_url": "http://127.0.0.1:8317/v1",
-    "api_key": "sk-r8Z87oUgrcTZyGszs",
+    "api_key": "sk-xxx",
     "model": "gpt-5.5",
     "detail": "auto",
     "max_tokens": "1024",
