@@ -30,7 +30,7 @@ description: Delegate image understanding to a vision-capable model when the cur
 | 变量 | 必需 | 默认值 | 说明 |
 |---|---|---|---|
 | `VISION_BASE_URL` | 是 | `http://127.0.0.1:8317/v1` | OpenAI 兼容的 API 根地址（到 `/v1`） |
-| `VISION_API_KEY` | 是 | `sk-r8Z87oUgrcTZyGszs` | API 密钥 |
+| `VISION_API_KEY` | 是 | `sk-xxx` | API 密钥 |
 | `VISION_MODEL` | 是 | `gpt-5.5` | 具备视觉能力的模型名 |
 | `VISION_DETAIL` | 否 | `auto` | 图片采样精度：`low`/`high`/`auto` |
 | `VISION_MAX_TOKENS` | 否 | `1024` | 返回文本上限 |
